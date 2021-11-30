@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/activity_weather.xml" value="0.17300724637681159" />
+        <entry key="..\:/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/forecast.xml" value="0.12604166666666666" />
+        <entry key="..\:/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/forecast_item.xml" value="0.12604166666666666" />
+        <entry key="..\:/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/fragment_palce.xml" value="0.1793478260869565" />
+        <entry key="..\:/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/fragment_place.xml" value="0.4" />
+        <entry key="..\:/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/life_index.xml" value="0.264" />
+        <entry key="..\:/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/now.xml" value="0.16" />
+        <entry key="..\:/AndroidStudioProjects/WeatherForecast/app/src/main/res/layout/place_item.xml" value="0.536" />
+        <entry key="..\:/WeatherForecast-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14895833333333333" />
+        <entry key="..\:/WeatherForecast-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14895833333333333" />
+        <entry key="..\:/WeatherForecast-master/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/WeatherForecast-master/app/src/main/res/layout/activity_weather.xml" value="0.17255434782608695" />
+        <entry key="..\:/WeatherForecast-master/app/src/main/res/layout/forecast.xml" value="0.17255434782608695" />
+        <entry key="..\:/WeatherForecast-master/app/src/main/res/layout/forecast_item.xml" value="0.17255434782608695" />
+        <entry key="..\:/WeatherForecast-master/app/src/main/res/layout/fragment_place.xml" value="0.17255434782608695" />
+        <entry key="..\:/WeatherForecast-master/app/src/main/res/layout/life_index.xml" value="0.17255434782608695" />
+        <entry key="..\:/WeatherForecast-master/app/src/main/res/layout/now.xml" value="0.17255434782608695" />
+        <entry key="..\:/WeatherForecast-master/app/src/main/res/layout/place_item.xml" value="0.17255434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
